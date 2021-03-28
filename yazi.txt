@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world
+=======
+Efwmcpemwcepew
+>>>>>>> dal-1
+denemeeeeee
