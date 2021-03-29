@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello world
 =======
 Efwmcpemwcepew
 >>>>>>> dal-1
 denemeeeeee
+=======
+Feature-1
+>>>>>>> feature-1
